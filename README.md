@@ -76,6 +76,6 @@
 
 · Analyzed how users are engaging with the email service.
 
-## Conclusion :-
+## Conclusion :
 
 · The "Operational and Metric Analytics Enhancement" project helped to improve the efficiency, effectiveness, and strategic decision-making capabilities by developing a robust analytics framework. This framework will leverage data-driven insights to optimize operational processes, enhance performance measurement, and drive business growth through informed decision-making.
